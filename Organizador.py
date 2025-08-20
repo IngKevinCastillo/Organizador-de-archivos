@@ -48,7 +48,7 @@ extensions_dict = {
 }
 
 predeterminada = 'otros'
-carpeta_organizar_ruta = r'C:\Users\kevin\Downloads\otros'
+carpeta_organizar_ruta = r'ruta completa de la carpeta'
 
 archivos = os.listdir(carpeta_organizar_ruta)
 
